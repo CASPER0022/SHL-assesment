@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+
+# Environment variables
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test artifacts
+.gemini/
+C:\Users\ALBIN JOHN\.gemini\antigravity\brain\df61954a-e327-4341-81ea-a8bb16c2c361\scratch\
